@@ -1,8 +1,4 @@
 # Fox Adventure
-
-![Fox Adventure Art](https://i.imgur.com/gO15i1e.jpeg)
-*Arte conceitual com Kael, o Esquilo Mercador e o Corujão Sábio.*
-
 ---
 
 ## 🦊 Sobre o Jogo
